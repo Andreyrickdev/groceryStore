@@ -177,3 +177,7 @@ body{
     color: var(--ligh-color);
     font-size: 1.6rem;
 }
+
+.header .shopping-cart .box .content .quantify{
+    padding-left: 1rem;
+}
