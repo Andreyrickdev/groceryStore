@@ -67,3 +67,15 @@ body{
 .header .navbar a:hover{
     color: var(--redTomato);
 }
+
+.header .icons div{
+    height: 4.5rem;
+    width: 4.5rem;
+    line-height: 4.5rem;
+    border-radius: .5rem;
+    background-color: #eee;
+    color: var(--black);
+    margin-left: .3rem;
+    cursor: pointer;
+    text-align: center;
+}
