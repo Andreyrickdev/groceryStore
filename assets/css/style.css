@@ -129,3 +129,14 @@ body{
 .header .search-form label:hover{
     color: var(--redTomato);
 }
+
+.header .shopping-cart{
+    position: absolute;
+    top: 110%;
+    right: 2rem;
+    padding: 1rem;
+    border-radius: .5rem;
+    box-shadow: var(--box-shadow);
+    width: 35rem;
+    background: #fff;
+}
