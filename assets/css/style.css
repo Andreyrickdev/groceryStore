@@ -75,7 +75,13 @@ body{
     border-radius: .5rem;
     background-color: #eee;
     color: var(--black);
+    font-size: 1.5rem;
     margin-left: .3rem;
     cursor: pointer;
     text-align: center;
+}
+
+.header .icons div:hover{
+    background: var(--redTomato);
+    color: #fff;
 }
