@@ -93,15 +93,20 @@ body{
 .header .search-form{
     position: absolute;
     top: 110%;
-    right: 2rem;
+    right: -110%;
     width: 50rem;
-    height: 4rem;
+    height: 5rem;
     background-color: #fff;
     border-radius: .5rem;
     overflow: hidden;
     display: flex;
     align-items: center;
     box-shadow: var(--box-shadow);
+}
+
+.header .search-form.active{
+    right: 2rem;
+    transition: .4s linear;
 }
 
 .header .search-form input{
