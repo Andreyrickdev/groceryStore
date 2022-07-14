@@ -152,3 +152,17 @@ body{
 .header .shopping-cart .box img{
     height: 10rem;
 }
+
+.header .shopping-cart .box .fa-trash{
+    font-size: 2rem;
+    position: absolute;
+    top: 50%;
+    right: 2rem;
+    cursor: pointer;
+    color: var(--ligh-color);
+    transform: translateY(-50%);
+}
+
+.header .shopping-cart .box .fa-trash:hover{
+    color: var(--redTomato);
+}
