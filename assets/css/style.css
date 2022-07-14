@@ -33,6 +33,22 @@ body{
     background-color: #eee;
 }
 
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.7rem;
+    border-radius: .5rem;
+    border: .2rem solid var(--black);
+    color:var(--black);
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: var(--redTomato);
+    color: #fff;
+}
+
 .header{
     position: fixed;
     top: 0;
