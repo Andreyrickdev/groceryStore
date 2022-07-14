@@ -166,3 +166,9 @@ body{
 .header .shopping-cart .box .fa-trash:hover{
     color: var(--redTomato);
 }
+
+.header .shopping-cart .box .content h3{
+    color: var(--black);
+    font-size: 1.7rem;
+    padding-bottom: 1rem;
+}
