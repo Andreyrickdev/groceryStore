@@ -148,3 +148,7 @@ body{
     position: relative;
     margin: 1rem 0;
 }
+
+.header .shopping-cart .box img{
+    height: 10rem;
+}
