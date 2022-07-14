@@ -85,3 +85,7 @@ body{
     background: var(--redTomato);
     color: #fff;
 }
+
+#menu-btn{
+    display: none;
+}
