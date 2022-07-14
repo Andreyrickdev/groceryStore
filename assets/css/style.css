@@ -89,3 +89,17 @@ body{
 #menu-btn{
     display: none;
 }
+
+.header .search-form{
+    position: absolute;
+    top: 110%;
+    right: 2rem;
+    width: 50rem;
+    height: 4rem;
+    background-color: #fff;
+    border-radius: .5rem;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    box-shadow: var(--box-shadow);
+}
