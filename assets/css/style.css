@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Poppins:wght@100;300;400;500;600&family=Rochester&display=swap');
 
+:root{
+    --tomato: #eb3d3d;
+    --black: #130f40;
+    --ligh-color: #666;
+    --box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    --border: 1rem solid rgba(0,0,0,.1);
+    --outline: .1rem solid rgba(0,0,0,.1);
+    --outline-hover: .2rem solid var(--black);
+}
+
 *{
     font-family: 'Poppins', sans-serif;
     margin:0;
