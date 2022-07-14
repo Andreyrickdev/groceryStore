@@ -204,3 +204,10 @@ body{
     text-align: center;
     color: var(--black);
 }
+
+.header .shopping-cart .btn{
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 1rem 0;
+}
