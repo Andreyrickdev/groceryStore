@@ -6,4 +6,3 @@ searchBtn.addEventListener('click', () => {
 })
 
 let shoppingCart = document.querySelector('.shopping-cart');
-
