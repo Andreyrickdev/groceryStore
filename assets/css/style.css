@@ -103,3 +103,13 @@ body{
     align-items: center;
     box-shadow: var(--box-shadow);
 }
+
+.header .search-form input{
+    height: 100%;
+    width: 100%;
+    background: none;
+    text-transform: none;
+    font-size: 1.6rem;
+    color: var(--black);
+    padding: 0 1.5rem;
+}
