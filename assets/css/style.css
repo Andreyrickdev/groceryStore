@@ -57,3 +57,13 @@ body{
     color: var(--redTomato);
 
 }
+
+.header .navbar a{
+    font-size: 1.7rem;
+    margin: 0 1rem;
+    color: var(--black);
+}
+
+.header .navbar a:hover{
+    color: var(--redTomato);
+}
