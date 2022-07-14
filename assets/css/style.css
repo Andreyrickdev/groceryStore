@@ -149,7 +149,7 @@ body{
 .header .shopping-cart{
     position: absolute;
     top: 110%;
-    right: 2rem;
+    right: -110%;
     padding: 1rem;
     border-radius: .5rem;
     box-shadow: var(--box-shadow);
