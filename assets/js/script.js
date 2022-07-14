@@ -4,3 +4,6 @@ let searchBtn = document.querySelector('#search-btn');
 searchBtn.addEventListener('click', () => {
     searchForm.classList.toggle('active');
 })
+
+let shoppingCart = document.querySelector('.shopping-cart');
+
