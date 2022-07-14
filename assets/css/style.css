@@ -172,3 +172,8 @@ body{
     font-size: 1.7rem;
     padding-bottom: 1rem;
 }
+
+.header .shopping-cart .box .content span{
+    color: var(--ligh-color);
+    font-size: 1.6rem;
+}
