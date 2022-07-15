@@ -25,3 +25,10 @@ let menuBtn = document.querySelector('#menu-btn');
 menuBtn.addEventListener('click', () => {
     navBar.classList.toggle('active');
 })
+
+window.addEventListener('scroll', () => {
+    searchForm.classList.remove('active');
+    shoppingCart.classList.remove('active');
+    loginForm.classList.remove('active');
+    navBar.classList.remove('active');
+})
