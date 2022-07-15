@@ -12,4 +12,5 @@ cartBtn.addEventListener('click', () => {
     shoppingCart.classList.toggle('active');
 })
 
+let loginForm = document.querySelector('.login-form');
 let loginBtn = document.querySelector('#login-btn');
