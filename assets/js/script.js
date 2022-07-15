@@ -24,6 +24,9 @@ let menuBtn = document.querySelector('#menu-btn');
 
 menuBtn.addEventListener('click', () => {
     navBar.classList.toggle('active');
+    searchForm.classList.remove('active');
+    shoppingCart.classList.remove('active');
+    loginForm.classList.remove('active');
 })
 
 window.addEventListener('scroll', () => {
