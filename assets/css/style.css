@@ -106,7 +106,7 @@ body{
     .header .navbar{
         position:absolute;
         top: 110%;
-        right: 2rem;
+        right: -110%;
         width: 30rem;
         box-shadow: var(--box-shadow);
         border-radius: .5rem;
