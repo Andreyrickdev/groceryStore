@@ -11,3 +11,5 @@ let cartBtn = document.querySelector('#cart-btn');
 cartBtn.addEventListener('click', () => {
     shoppingCart.classList.toggle('active');
 })
+
+let loginBtn = document.querySelector('#login-btn');
