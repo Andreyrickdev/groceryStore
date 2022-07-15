@@ -102,6 +102,18 @@ body{
     color: var(--black);
 }
 
+@media (max-width: 768px){
+    .header .navbar{
+        position:absolute;
+        top: 110%;
+        right: 2rem;
+        width: 30rem;
+        box-shadow: var(--box-shadow);
+        border-radius: .5rem;
+        background: #fff;
+    }
+}
+
 .header .navbar a:hover{
     color: var(--redTomato);
 }
