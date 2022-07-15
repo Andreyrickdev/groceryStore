@@ -112,6 +112,12 @@ body{
         border-radius: .5rem;
         background: #fff;
     }
+
+    .header .navbar a{
+        font-size: 2rem;
+        margin: 2rem 2.5rem;
+        display: block;
+    }
 }
 
 .header .navbar a:hover{
