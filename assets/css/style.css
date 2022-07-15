@@ -228,6 +228,10 @@ body{
     background: #fff;
     text-align: center;
 }
+.header .login-form.active{
+    right: 2rem;
+    transition: .4s linear;
+}
 
 .header .login-form h3{
     font-size: 2.5rem;
