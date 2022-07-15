@@ -217,3 +217,14 @@ body{
     text-align: center;
     margin: 1rem 0;
 }
+
+.header .login-form{
+    position: absolute;
+    top: 110%;
+    right: 2rem;
+    width: 35rem;
+    box-shadow: var(--box-shadow);
+    padding: 2rem;
+    background: #fff;
+    text-align: center;
+}
