@@ -245,3 +245,9 @@ body{
     color: var(--black);
     text-transform: none;
 }
+
+.header .login-form p{
+    font-size: 1.4rem;
+    padding: .5rem 0;
+    color: var(--ligh-color);
+}
