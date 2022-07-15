@@ -251,3 +251,8 @@ body{
     padding: .5rem 0;
     color: var(--ligh-color);
 }
+
+.header .login-form p a{
+    color: var(--redTomato);
+    text-decoration: underline;
+}
