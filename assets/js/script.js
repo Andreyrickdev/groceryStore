@@ -10,6 +10,9 @@ let cartBtn = document.querySelector('#cart-btn');
 
 cartBtn.addEventListener('click', () => {
     shoppingCart.classList.toggle('active');
+    searchForm.classList.remove('active');
+    loginForm.classList.remove('active');
+    navBar.classList.remove('active');
 })
 
 let loginForm = document.querySelector('.login-form');
