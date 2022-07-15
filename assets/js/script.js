@@ -3,6 +3,9 @@ let searchBtn = document.querySelector('#search-btn');
 
 searchBtn.addEventListener('click', () => {
     searchForm.classList.toggle('active');
+    shoppingCart.classList.remove('active');
+    loginForm.classList.remove('active');
+    navBar.classList.remove('active');
 })
 
 let shoppingCart = document.querySelector('.shopping-cart');
