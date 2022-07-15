@@ -17,6 +17,9 @@ let loginBtn = document.querySelector('#login-btn');
 
 loginBtn.addEventListener('click', () => {
     loginForm.classList.toggle('active');
+    searchForm.classList.remove('active');
+    shoppingCart.classList.remove('active');
+    navBar.classList.remove('active');
 })
 
 let navBar = document.querySelector('.navbar');
