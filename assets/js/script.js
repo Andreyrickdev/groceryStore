@@ -21,3 +21,7 @@ loginBtn.addEventListener('click', () => {
 
 let navBar = document.querySelector('.navbar');
 let menuBtn = document.querySelector('#menu-btn');
+
+menuBtn.addEventListener('click', () => {
+    navBar.classList.toggle('active');
+})
