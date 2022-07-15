@@ -18,3 +18,5 @@ let loginBtn = document.querySelector('#login-btn');
 loginBtn.addEventListener('click', () => {
     loginForm.classList.toggle('active');
 })
+
+let menuBtn = document.querySelector('#menu-btn');
