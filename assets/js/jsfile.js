@@ -44,4 +44,6 @@ function slidefun(n) {
     if(n < 1){
         counter = myslide.length;
     }
+
+    myslide[counter - 1].style.display = "block";
 }
