@@ -28,5 +28,6 @@ function resetTimer() {
 }
 
 function slidefun(n) {
-    
+
+    let i;
 }
