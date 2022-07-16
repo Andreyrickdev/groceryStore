@@ -323,3 +323,12 @@ body{
     position:relative;
     width: 100%;
 }
+
+.myslide{
+    height: 500px;
+    display: none;
+    overflow: hidden;
+    background-image: url('../imgs/banner-bg.webp');
+    background-position: center;
+    background-size: cover;
+}
