@@ -439,3 +439,8 @@ body{
 		margin-bottom: 0px;
 	}
 }
+
+.txt h1 span{
+    color: var(--redTomato);
+    font-size: 3rem;
+}
