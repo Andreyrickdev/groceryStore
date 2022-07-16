@@ -9,3 +9,9 @@ function autoSlide() {
 	counter += 1;
 	slidefun(counter);
 }
+
+function plusSlides(n) {
+	counter += n;
+	slidefun(counter);
+	resetTimer();
+}
