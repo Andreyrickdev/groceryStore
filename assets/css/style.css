@@ -468,3 +468,9 @@ body{
 .txt img{
     place-self: center;
 }
+
+@media screen and (max-width: 326px) {
+    .txt img{
+        display: none;
+    }
+}
