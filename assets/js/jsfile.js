@@ -46,4 +46,5 @@ function slidefun(n) {
     }
 
     myslide[counter - 1].style.display = "block";
+    dot[counter - 1].className += " active";
 }
