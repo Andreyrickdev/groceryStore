@@ -78,7 +78,7 @@ body{
     box-shadow: var(--box-shadow);
 }
 
-@media (max-width: 991px){
+@media (max-width: 1015px){
 
     .header{
         padding: 2rem;
