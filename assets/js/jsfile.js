@@ -15,3 +15,9 @@ function plusSlides(n) {
 	slidefun(counter);
 	resetTimer();
 }
+
+function currentSlide(n) {
+	counter = n;
+	slidefun(counter);
+	resetTimer();
+}
