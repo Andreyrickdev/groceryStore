@@ -354,3 +354,7 @@ body{
 .prev:hover, .next:hover{
     color: var(--redTomato);
 }
+
+.next{
+    right:0;
+}
