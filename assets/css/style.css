@@ -376,3 +376,7 @@ body{
     margin: 0 10px;
     cursor: pointer;
 }
+
+.active, .dot:hover{
+    border-color: var(--redTomato);
+}
