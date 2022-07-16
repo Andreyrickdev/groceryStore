@@ -26,3 +26,7 @@ function resetTimer() {
 	clearInterval(timer);
 	timer = setInterval(autoSlide, 8000);
 }
+
+function slidefun(n) {
+    
+}
