@@ -33,4 +33,7 @@ function slidefun(n) {
     for(i = 0;i<myslide.length;i++){
 		myslide[i].style.display = "none";
 	}
+    for(i = 0;i<dot.length;i++) {
+		dot[i].className = dot[i].className.replace(' active', '');
+	}
 }
