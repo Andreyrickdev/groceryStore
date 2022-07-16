@@ -426,3 +426,10 @@ body{
     margin-bottom: 10px;
     place-self: center;
 }
+
+@media screen and (max-width: 520px) {
+    .txt h1{
+		font-size: 2.5rem;
+		margin-bottom: 10px;
+	}
+}
