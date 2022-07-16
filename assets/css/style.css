@@ -474,3 +474,9 @@ body{
         display: none;
     }
 }
+
+@media screen and (max-width: 520px) {
+    .txt img{
+        width: 50px;
+    }
+}
