@@ -450,3 +450,11 @@ body{
         font-size: 2.5rem;
     }
 }
+
+.txt p{
+    color: var(--ligh-color);
+    font-size: 1.7rem;
+    padding: 1rem 0;
+    line-height: 1.8;
+    place-self: center;
+}
