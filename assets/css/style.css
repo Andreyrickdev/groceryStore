@@ -419,3 +419,10 @@ body{
 		animation-duration: 2s;
 	}
 }
+
+.txt h1{
+    color: var(--black);
+    font-size: 3rem;
+    margin-bottom: 10px;
+    place-self: center;
+}
