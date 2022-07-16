@@ -480,3 +480,8 @@ body{
         width: 50px;
     }
 }
+
+.btn-shop-now{
+    align-self: end;
+    justify-self: center;
+}
