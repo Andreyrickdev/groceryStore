@@ -458,3 +458,9 @@ body{
     line-height: 1.8;
     place-self: center;
 }
+
+@media screen and (max-width: 326px) {
+    .txt p{
+        padding:0;
+    }
+}
