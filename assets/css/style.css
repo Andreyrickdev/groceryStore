@@ -360,7 +360,7 @@ body{
 }
 
 .dotsbox{
-    position: absolute;
+    position: relative;
     left: 50%;
     transform: translate(-50%);
     bottom: 20px;
