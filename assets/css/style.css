@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Poppins:wght@100;300;400;500;600&family=Rochester&display=swap');
 
 @import './css/global.css';
+@import './css/slider.css';
 
 :root{
     --redTomato: #eb3d3d;
@@ -11,7 +12,7 @@
     --outline: .1rem solid rgba(0,0,0,.1);
     --outline-hover: .2rem solid var(--black);
 }
-
+/*
 *{
     font-family: 'Poppins', sans-serif;
     margin:0;
@@ -48,7 +49,7 @@ html{
 body{
     background-color: #eee;
 }
-
+*/
 .btn{
     margin-top: 1rem;
     display: inline-block;
