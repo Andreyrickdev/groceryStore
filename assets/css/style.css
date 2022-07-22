@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Poppins:wght@100;300;400;500;600&family=Rochester&display=swap');
 
+@import './css/global.css';
+
 :root{
     --redTomato: #eb3d3d;
     --black: #130f40;
