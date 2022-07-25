@@ -19,6 +19,11 @@
     outline-offset: 0rem;
 }
 
+.features .box-container .box img{
+    margin: 1rem 0;
+    height: 15rem;
+}
+
 .heading{
     text-align: center;
     padding: 2rem 0;
