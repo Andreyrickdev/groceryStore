@@ -30,6 +30,13 @@
     color: var(--black);
 }
 
+.features .box-container .box p{
+    font-size: 1.5rem;
+    line-height: 1.8;
+    color: var(--light-color);
+    padding: 1rem 0;
+}
+
 .heading{
     text-align: center;
     padding: 2rem 0;
