@@ -16,3 +16,8 @@
     outline: var(--outline);
     box-shadow: var(--box-shadow);
 }
+
+.products .product-slider .box:hover{
+    outline-offset: 0rem;
+    outline: var(--outline-hover);
+}
