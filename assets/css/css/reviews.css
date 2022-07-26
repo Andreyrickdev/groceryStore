@@ -13,3 +13,8 @@
     box-shadow: var(--box-shadow);
     transition: .2s linear;
 }
+
+.review .review-slider .box:hover{
+    outline: var(--outline-hover);
+    outline-offset: 0rem;
+}
