@@ -18,3 +18,9 @@
     outline: var(--outline-hover);
     outline-offset: 0rem;
 }
+
+.review .review-slider .box img{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+}
