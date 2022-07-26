@@ -11,3 +11,9 @@
     box-shadow: var(--box-shadow);
     background: #fff;
 }
+
+.blogs .box-container .box img{
+    height: 25rem;
+    width: 100%;
+    object-fit: cover;
+}
