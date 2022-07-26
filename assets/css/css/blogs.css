@@ -30,3 +30,8 @@
     margin-bottom: 1rem;
     border-bottom: var(--border);
 }
+
+.blogs .box-container .box .content .icons a{
+    color: var(--light-color);
+    font-size: 1.5rem;
+}
