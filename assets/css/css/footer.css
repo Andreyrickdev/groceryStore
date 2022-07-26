@@ -18,3 +18,10 @@
 .footer .box-container .box h3 i{
     color: var(--redTomato);
 }
+
+.footer .box-container .box .links{
+    display: block;
+    font-size: 1.5rem;
+    color: var(--light-color);
+    padding: 1rem 0;
+}
