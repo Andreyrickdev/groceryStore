@@ -39,3 +39,8 @@
 .blogs .box-container .box .content .icons a:hover{
     color: var(--black);
 }
+
+.blogs .box-container .box .content .icons a li{
+    color: var(--redTomato);
+    padding-right: .5rem;
+}
