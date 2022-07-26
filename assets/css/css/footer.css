@@ -30,3 +30,7 @@
     color: var(--redTomato);
     padding-right: .5rem;
 }
+
+.footer .box-container .box .links:hover i{
+    padding-right: 2rem;
+}
