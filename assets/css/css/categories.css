@@ -19,3 +19,8 @@
     outline: var(--outline-hover);
     outline-offset: 0rem;
 }
+
+.categories .box-container .box img{
+    margin: 1rem 0;
+    height: 12rem;
+}
