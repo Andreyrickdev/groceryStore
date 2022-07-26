@@ -35,3 +35,7 @@
     color: var(--light-color);
     font-size: 1.5rem;
 }
+
+.blogs .box-container .box .content .icons a:hover{
+    color: var(--black);
+}
