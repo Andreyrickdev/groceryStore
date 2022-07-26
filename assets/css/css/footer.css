@@ -85,3 +85,7 @@
     color: var(--black);
     border-top: var(--border);
 }
+
+.footer .credit span{
+    color: var(--redTomato);
+}
