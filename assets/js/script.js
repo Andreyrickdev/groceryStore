@@ -66,7 +66,7 @@ window.addEventListener('scroll', () => {
         slidesPerView: 2,
       },
       1020: {
-        slidesPerView: 3,
+        slidesPerView: 4,
       },
     },
   });
