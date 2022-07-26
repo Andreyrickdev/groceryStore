@@ -14,3 +14,8 @@
     outline-offset: -1rem;
     text-align: center;
 }
+
+.categories .box-container .box:hover{
+    outline: var(--outline-hover);
+    outline-offset: 0rem;
+}
