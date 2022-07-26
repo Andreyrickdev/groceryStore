@@ -25,3 +25,8 @@
     color: var(--light-color);
     padding: 1rem 0;
 }
+
+.footer .box-container .box .links i{
+    color: var(--redTomato);
+    padding-right: .5rem;
+}
