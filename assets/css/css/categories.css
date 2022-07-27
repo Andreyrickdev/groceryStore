@@ -5,6 +5,14 @@
     gap: 1.5rem;
 }
 
+@media (min-width: 713px) and (max-width: 1084px){
+    
+    .categories .box-container .last-box{
+        grid-column: 2;
+    }
+
+}
+
 .categories .box-container .box{
     padding: 3rem 2rem;
     border-radius: .5rem;
