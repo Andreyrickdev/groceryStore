@@ -36,7 +36,7 @@
     color: var(--black);
 }
 
-@media (max-width: 768px){
+@media (max-width: 775px){
     .header .navbar{
         position:absolute;
         top: 110%;
