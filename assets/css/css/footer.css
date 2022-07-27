@@ -10,6 +10,14 @@
     gap: 1.5rem;
 }
 
+@media (min-width: 687px) and (max-width: 1044px){
+    
+    .footer .box-container .last-box{
+        grid-column: 2;
+    }
+
+}
+
 .footer .box-container .box h3{
     font-size: 2.5rem;
     color: var(--black);
