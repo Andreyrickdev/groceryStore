@@ -5,6 +5,14 @@
     gap: 1.5rem;
 }
 
+@media (min-width: 542px) and (max-width: 818px){
+    
+    .features .box-container .last-box{
+        grid-column: 1/-1;
+    }
+
+}
+
 .features .box-container .box{
     padding: 3rem 2rem;
     background: #fff;
